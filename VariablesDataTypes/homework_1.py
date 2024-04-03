@@ -20,4 +20,4 @@ match discriminant:
         x = -b / (2 * a)
         print(f'Result: x = {x}')
     case _:
-        print(f'No solutions')
+        print('No solutions')
