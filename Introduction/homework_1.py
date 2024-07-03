@@ -8,3 +8,5 @@ c = int(input('Enter 3rd number: '))
 d = int(input('Enter 4th number: '))
 
 print(f'Sum of {a}, {b}, {c}, {d} is {sum(a, b, c, d)}')
+
+# jupyter lab
